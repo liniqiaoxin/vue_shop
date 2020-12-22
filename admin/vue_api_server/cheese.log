@@ -1,0 +1,8 @@
+[2020-12-22T16:36:45.005] [DEBUG] cheese - login => username:admin,password:123456
+[2020-12-22T16:36:45.007] [DEBUG] cheese - admin
+[2020-12-22T16:36:45.026] [DEBUG] cheese - { inspect: [Function: inspect] }
+[2020-12-22T16:36:45.028] [DEBUG] cheese - 查询失败
+[2020-12-22T16:44:23.200] [DEBUG] cheese - login => username:admin,password:123456
+[2020-12-22T16:44:23.201] [DEBUG] cheese - admin
+[2020-12-22T16:44:23.211] [DEBUG] cheese - null
+[2020-12-22T16:44:23.212] [DEBUG] cheese - null
