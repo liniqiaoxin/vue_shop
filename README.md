@@ -4,7 +4,7 @@
  * @Author: linqiaoxin
  * @Date: 2020-12-22 16:07:13
  * @LastEditors: linqiaoxin
- * @LastEditTime: 2020-12-22 16:51:18
+ * @LastEditTime: 2020-12-25 10:52:32
 -->
 # vue_shop
 
@@ -39,3 +39,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
  * 后台项目搭建：https://blog.csdn.net/weixin_45540782/article/details/103102571
 
 # 项目进度
+* 添加登录功能以及/home的基本结构 https://blog.csdn.net/weixin_45540782/article/details/111562822

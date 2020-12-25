@@ -4,7 +4,7 @@
  * @Author: linqiaoxin
  * @Date: 2020-12-24 10:02:19
  * @LastEditors: linqiaoxin
- * @LastEditTime: 2020-12-24 15:06:58
+ * @LastEditTime: 2020-12-25 10:51:13
  */
 // https://eslint.org/docs/user-guide/configuring
 
@@ -79,7 +79,7 @@ module.exports = {
     "eqeqeq": 0, // 必须使用全等
     "one-var": 0, // 连续声明
     // "no-undef": 0, // 可以 有未定义的变量
-    "no-console": 0,
+    "no-console": process.env.NODE_ENV === 'production' ? 2 : 0,
     // 警告
     "no-extra-boolean-cast": 1, // 不必要的bool转换
     "no-extra-parens": 1, // 非必要的括号
